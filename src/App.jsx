@@ -14,13 +14,13 @@ function App() {
 
   let random = [{
     id: 1,
-    description: "Di si por favor",
+    description: "Se buena, di si señorita",
     img: "https://i.pinimg.com/originals/db/aa/c1/dbaac13f6278b91a15e480752b8a7242.gif"
   },
   {
     id: 1,
-    description: "Piénsalo de nuevo.",
-    img: "https://i.pinimg.com/originals/77/6b/21/776b215bed3deeef47fd3aa657685a18.gif"
+    description: "No te pases Nicole, di que si!.",
+    img: "https://media.tenor.com/I7KdFaMzUq4AAAAi/peach-goma.gif"
   }
     ,
   {
