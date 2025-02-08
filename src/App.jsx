@@ -19,7 +19,7 @@ function App() {
   },
   {
     id: 1,
-    description: "No te pases Gabriela, di que si!.",
+    description: "No te pases MELANY, di que si!.",
     img: "https://media.tenor.com/I7KdFaMzUq4AAAAi/peach-goma.gif"
   }
     ,
@@ -89,7 +89,7 @@ function App() {
       {
         !valueSi ? (
           <div className="p-5">
-            <h1 className="text-white font-bold text-5xl text-center">Gabriela, ¿Quieres ser mi San Valentin?</h1>
+            <h1 className="text-white font-bold text-5xl text-center">MELANY, ¿Quieres ser mi San Valentin?</h1>
             <img src={Object.keys(randomValor).length === 0 ?
               "https://i.pinimg.com/originals/db/aa/c1/dbaac13f6278b91a15e480752b8a7242.gif" : randomValor.img} alt="San Valentin" className="mx-auto" width={400} height={400} />
             <div className="grid grid-cols-1 md:grid-cols-2 mt-10 gap-5 items-center">
